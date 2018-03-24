@@ -31,6 +31,4 @@ def find_the_cheese(cheese)# code an argument here
   cheese.find do |type|
     cheese_types.include?(type)
   end
-  # the array below is here to help
-  
 end
