@@ -12,6 +12,7 @@ def summon_captain_planet(planeteer)# code an argument here
   while i < planeteer.length
     new_planeteer << planeteer[i].capitalize + "!"
   end
+  new_planeteer
 end
 
 def long_planeteer_calls# code an argument here
